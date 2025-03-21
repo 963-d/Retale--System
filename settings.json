@@ -1,0 +1,21 @@
+{
+    "youtube_channels": {
+        "1350853187027996753": [
+            "https://www.youtube.com/@alsoooory"
+        ]
+    },
+    "notification_channels": {
+        "1350853187027996753": 1350854518895808564
+    },
+    "verification_roles": {
+        "1350853187027996753": 1350854285134659584
+    },
+    "verification_messages": {
+        "1352608072719138927": true,
+        "1352609245396467843": true
+    },
+    "ticket_category": 1350854323239911506,
+    "support_role": 1352625883621359617,
+    "last_ticket_number": 6,
+    "logs_channel": 1352614964971442288
+}
